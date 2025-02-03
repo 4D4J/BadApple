@@ -5,11 +5,11 @@ Me, no =)**
 
 But you'll be able to see what it looks like in every possible language! 
 
-*python ✅*
-*Javascript ✅*
-*Java ❌*
-*C ❌*
-*Rust ❌*
-*Go ❌*
-*Lua ❌*
-*Rubby ❌*
+*python ✅* <br>
+*Javascript ✅* <br>
+*Java ❌* <br>
+*C ❌* <br>
+*Rust ❌* <br>
+*Go ❌* <br>
+*Lua ❌* <br>
+*Rubby ❌* <br>
